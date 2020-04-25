@@ -1,0 +1,23 @@
+Elképzelés Lvl.1:
+
+Hangszerbolt 
+Megvalósítás:
+konzolos app. (nem ismerem a JAVA-s GUI-t)
+
+Felépítése:
+hangszer-->fúvós/ütõs/pengetõs/billentyûs
+pengetõs-->Gitár-->elektromos/akusztikus/effektek/erõsítõk
+elektromos-->basszus/szóló
+Szóló-->gitártest fajtái (st, Super St, singelCut, doublecut, 7 húros, 8 húros)-->tremoló(floyd rose, „klasszik”, Bigsby..)
+Basszus-->4,5,6 húros, headless, érintõnélküli
+------------------------------------
+ütõs-->dob
+-------------------------------
+billenytyûs-->zongora-->digitális/szintetizátorok/pianínók/akusztikus
+-----------------------------------
+
+Unit Test:
+
+
+
+Tervezési minták:
