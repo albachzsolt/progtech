@@ -21,3 +21,6 @@ Unit Test:
 
 
 Tervezési minták:
+factory:új hangszer felvitele
+
+!!!!!!!Még nem ismert minden tervezési minta számomra ezeket elõbb pótolnom kell!
